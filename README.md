@@ -102,15 +102,18 @@ To examine the relationship between pricing, demand, profitability, and revenue 
 
 ## Executive Business Overview
 
-![Executive Business Overview](Dashboard/Page_1_Executive_Overview.png)
+<img width="1202" height="680" alt="page 1" src="https://github.com/user-attachments/assets/e8cc449a-a9cb-45cb-a92b-f41b5f371a0c" />
+
 
 ## Customer & Market Analysis
 
-![Customer & Market Analysis](Dashboard/Page_2_Customer_Market_Analysis.png)
+<img width="1207" height="679" alt="page 2" src="https://github.com/user-attachments/assets/e123ccb1-e05e-4c64-9c3e-cacf30980502" />
+
 
 ## Revenue, Pricing & Demand Analytics
 
-![Revenue, Pricing & Demand Analytics](Dashboard/Page_3_Revenue_Pricing_Demand.png)
+<img width="1211" height="681" alt="page 3" src="https://github.com/user-attachments/assets/fb113614-e586-4af8-94c3-d73702f4a2c8" />
+
 
 ---
 
