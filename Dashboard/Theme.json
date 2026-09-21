@@ -1,0 +1,105 @@
+{
+  "name": "Amazon Corporate Executive",
+  "dataColors": [
+    "#004B49",
+    "#146EB4",
+    "#232F3E",
+    "#FF9900",
+    "#37474F",
+    "#4CAF50",
+    "#81C784",
+    "#90A4AE"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#232F3E",
+  "tableAccent": "#004B49",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E0E0E0" } },
+            "radius": 8
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "transparency": 95,
+            "preset": "Custom",
+            "position": "Outer",
+            "direction": "BottomRight",
+            "distance": 4,
+            "blur": 4
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI, Arial, sans-serif",
+            "fontSize": 12,
+            "fontColor": { "solid": { "color": "#232F3E" } },
+            "bold": true
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F4F6F8" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Segoe UI, Arial, sans-serif",
+            "fontSize": 24,
+            "color": { "solid": { "color": "#232F3E" } },
+            "labelBold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "fontFamily": "Segoe UI, Arial, sans-serif",
+            "fontSize": 9,
+            "color": { "solid": { "color": "#757575" } }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [
+          {
+            "fontFamily": "Segoe UI, Arial, sans-serif",
+            "fontSize": 10,
+            "fontColor": { "solid": { "color": "#232F3E" } },
+            "bold": true
+          }
+        ],
+        "items": [
+          {
+            "fontFamily": "Segoe UI, Arial, sans-serif",
+            "fontSize": 10,
+            "fontColor": { "solid": { "color": "#37474F" } }
+          }
+        ]
+      }
+    }
+  }
+}
